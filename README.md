@@ -21,3 +21,6 @@ Avaliar a proficiência dos candidatos em Java e Spring.
 * Documentação: Comentar o código e incluir um README explicando como configurar e executar o projeto.
 
 
+#### Como enviar? ####
+
+Você deverá enviar o projeto para este repositório ou enviar seu próprio repositório
