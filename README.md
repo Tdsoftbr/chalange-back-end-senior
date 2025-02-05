@@ -7,9 +7,9 @@ Avaliar a proficiência dos candidatos em Java e Spring.
 
 #### Estrutura do Teste ####
 
-* Desafio de Codificação: *
+**Desafio de Codificação:**
 
-** Descrição: ** Desenvolver uma API REST simples para um sistema de gerenciamento de bibliotecas que permita aos usuários consultar livros, adicionar novos livros e deletar livros existentes.
+**Descrição:** Desenvolver uma API REST simples para um sistema de gerenciamento de bibliotecas que permita aos usuários consultar livros, adicionar novos livros e deletar livros existentes.
 
 #### Requisitos ####
 
