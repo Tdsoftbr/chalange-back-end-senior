@@ -20,6 +20,7 @@ Avaliar a proficiência dos candidatos em Java e Spring.
 * Escrever testes unitários com JUnit e testes de integração.
 * Documentação: Comentar o código e incluir um README explicando como configurar e executar o projeto.
 
+**Observação:** Sinta-se livre para ousar e implementar oque achar insteressante neste desafio.
 
 #### Como enviar? ####
 
